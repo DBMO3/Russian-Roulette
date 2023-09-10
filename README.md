@@ -8,7 +8,7 @@ This is a simple simulator of Russian roulette, a dangerously risky game where p
 -Graphical User Interface (GUI): The simulator has a minimalist graphical interface with two buttons, "Shoot" and "Reload," which allows users to interact with the game in a straightforward manner.
 -Safe Gameplay: Unlike real Russian roulette, this game is completely safe and does not involve real firearms or real-life risks.
 
-#Usage Instructions:
+# Usage Instructions:
 
 -Run the application.
 -Click the "Reload" button to prepare the virtual cylinder.
